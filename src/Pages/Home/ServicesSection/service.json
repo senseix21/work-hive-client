@@ -1,0 +1,446 @@
+[
+    {
+        "name": "Online delivery service review",
+        "image": "https://dummyimage.com/600x400/000/fff",
+        "rating": 4.5,
+        "price": "Free",
+        "description": "With the rise of online ordering, it can be overwhelming to choose the right delivery service for your needs. Our expert reviews take the guesswork out of the equation, so you can get the best bang for your buck. From groceries to takeout, we'll help you save time and money by finding the most reliable and affordable options.",
+        "comments": [
+            {
+                "img": "https://example.com/profile1.jpg",
+                "name": "John Doe",
+                "rating": 4.5,
+                "desc": "I had a great experience with this tax lawyer service. They were knowledgeable, professional, and provided excellent advice. I highly recommend them.",
+                "date": "2022-02-15"
+            },
+            {
+                "img": "https://example.com/profile2.jpg",
+                "name": "Jane Smith",
+                "rating": 5,
+                "desc": "I was very impressed with the expertise and responsiveness of this tax lawyer service. They provided me with valuable insights and helped me resolve my tax issues in a timely manner. Thank you!",
+                "date": "2022-01-30"
+            },
+            {
+                "img": "https://example.com/profile3.jpg",
+                "name": "Mike Johnson",
+                "rating": 4,
+                "desc": "I consulted with this tax lawyer service for some complex tax matters, and they provided me with clear and practical advice. Although the process took longer than expected, I was satisfied with the outcome.",
+                "date": "2022-03-02"
+            },
+            {
+                "img": "https://example.com/profile4.jpg",
+                "name": "Sarah Lee",
+                "rating": 5,
+                "desc": "I am very grateful to this tax lawyer service for their exceptional service and expertise. They helped me navigate through some difficult tax issues and provided me with a comprehensive solution that exceeded my expectations.",
+                "date": "2022-02-10"
+            }
+        ]
+    },
+    {
+        "name": "Online trainer review",
+        "image": "https://dummyimage.com/600x400/000/fff",
+        "rating": 3.8,
+        "price": "$50/hour",
+        "description": " Achieving your fitness goals can be tough, but our online trainers make it easier than ever. We match you with a certified expert who understands your needs and helps you build a workout and nutrition plan that fits your lifestyle. With personalized guidance and support, you'll be on your way to a healthier, happier you in no time.",
+        "comments": [
+            {
+                "img": "https://example.com/profile1.jpg",
+                "name": "John Doe",
+                "rating": 4.5,
+                "desc": "I had a great experience with this tax lawyer service. They were knowledgeable, professional, and provided excellent advice. I highly recommend them.",
+                "date": "2022-02-15"
+            },
+            {
+                "img": "https://example.com/profile2.jpg",
+                "name": "Jane Smith",
+                "rating": 5,
+                "desc": "I was very impressed with the expertise and responsiveness of this tax lawyer service. They provided me with valuable insights and helped me resolve my tax issues in a timely manner. Thank you!",
+                "date": "2022-01-30"
+            },
+            {
+                "img": "https://example.com/profile3.jpg",
+                "name": "Mike Johnson",
+                "rating": 4,
+                "desc": "I consulted with this tax lawyer service for some complex tax matters, and they provided me with clear and practical advice. Although the process took longer than expected, I was satisfied with the outcome.",
+                "date": "2022-03-02"
+            },
+            {
+                "img": "https://example.com/profile4.jpg",
+                "name": "Sarah Lee",
+                "rating": 5,
+                "desc": "I am very grateful to this tax lawyer service for their exceptional service and expertise. They helped me navigate through some difficult tax issues and provided me with a comprehensive solution that exceeded my expectations.",
+                "date": "2022-02-10"
+            }
+        ]
+    },
+    {
+        "name": "Travel/Tourist Service",
+        "image": "https://dummyimage.com/600x400/000/fff",
+        "rating": 4.9,
+        "price": "$200/day",
+        "description": "Whether you're planning a dream vacation or a weekend getaway, our travel and tourist services have you covered. We offer a range of options, from guided tours to customized itineraries, so you can experience the world like a local. With our expert recommendations and insider tips, you'll make unforgettable memories and discover new places you never knew existed.",
+        "comments": [
+            {
+                "img": "https://example.com/profile1.jpg",
+                "name": "John Doe",
+                "rating": 4.5,
+                "desc": "I had a great experience with this tax lawyer service. They were knowledgeable, professional, and provided excellent advice. I highly recommend them.",
+                "date": "2022-02-15"
+            },
+            {
+                "img": "https://example.com/profile2.jpg",
+                "name": "Jane Smith",
+                "rating": 5,
+                "desc": "I was very impressed with the expertise and responsiveness of this tax lawyer service. They provided me with valuable insights and helped me resolve my tax issues in a timely manner. Thank you!",
+                "date": "2022-01-30"
+            },
+            {
+                "img": "https://example.com/profile3.jpg",
+                "name": "Mike Johnson",
+                "rating": 4,
+                "desc": "I consulted with this tax lawyer service for some complex tax matters, and they provided me with clear and practical advice. Although the process took longer than expected, I was satisfied with the outcome.",
+                "date": "2022-03-02"
+            },
+            {
+                "img": "https://example.com/profile4.jpg",
+                "name": "Sarah Lee",
+                "rating": 5,
+                "desc": "I am very grateful to this tax lawyer service for their exceptional service and expertise. They helped me navigate through some difficult tax issues and provided me with a comprehensive solution that exceeded my expectations.",
+                "date": "2022-02-10"
+            }
+        ]
+    },
+    {
+        "name": "Lawyer",
+        "image": "https://dummyimage.com/600x400/000/fff",
+        "rating": 4.3,
+        "price": "$300/hour",
+        "description": "Legal issues can be daunting, but our network of experienced lawyers makes it easy to get the help you need. From contracts to disputes, we'll connect you with a specialist who can provide affordable and effective solutions. With our guidance, you can navigate the legal system with confidence and achieve the best possible outcome.",
+        "comments": [
+            {
+                "img": "https://example.com/profile1.jpg",
+                "name": "John Doe",
+                "rating": 4.5,
+                "desc": "I had a great experience with this tax lawyer service. They were knowledgeable, professional, and provided excellent advice. I highly recommend them.",
+                "date": "2022-02-15"
+            },
+            {
+                "img": "https://example.com/profile2.jpg",
+                "name": "Jane Smith",
+                "rating": 5,
+                "desc": "I was very impressed with the expertise and responsiveness of this tax lawyer service. They provided me with valuable insights and helped me resolve my tax issues in a timely manner. Thank you!",
+                "date": "2022-01-30"
+            },
+            {
+                "img": "https://example.com/profile3.jpg",
+                "name": "Mike Johnson",
+                "rating": 4,
+                "desc": "I consulted with this tax lawyer service for some complex tax matters, and they provided me with clear and practical advice. Although the process took longer than expected, I was satisfied with the outcome.",
+                "date": "2022-03-02"
+            },
+            {
+                "img": "https://example.com/profile4.jpg",
+                "name": "Sarah Lee",
+                "rating": 5,
+                "desc": "I am very grateful to this tax lawyer service for their exceptional service and expertise. They helped me navigate through some difficult tax issues and provided me with a comprehensive solution that exceeded my expectations.",
+                "date": "2022-02-10"
+            }
+        ]
+    },
+    {
+        "name": "Photographer",
+        "image": "https://dummyimage.com/600x400/000/fff",
+        "rating": 4.7,
+        "price": "$500/hour",
+        "description": " Capturing life's special moments is priceless, and our professional photographers make it easy to do just that. With a wide range of styles and specialties, we offer options for every occasion, from weddings to sports events, journalism to wildlife. Our experts will work with you to create beautiful, lasting memories that you'll cherish for years to come.",
+        "comments": [
+            {
+                "img": "https://example.com/profile1.jpg",
+                "name": "John Doe",
+                "rating": 4.5,
+                "desc": "I had a great experience with this tax lawyer service. They were knowledgeable, professional, and provided excellent advice. I highly recommend them.",
+                "date": "2022-02-15"
+            },
+            {
+                "img": "https://example.com/profile2.jpg",
+                "name": "Jane Smith",
+                "rating": 5,
+                "desc": "I was very impressed with the expertise and responsiveness of this tax lawyer service. They provided me with valuable insights and helped me resolve my tax issues in a timely manner. Thank you!",
+                "date": "2022-01-30"
+            },
+            {
+                "img": "https://example.com/profile3.jpg",
+                "name": "Mike Johnson",
+                "rating": 4,
+                "desc": "I consulted with this tax lawyer service for some complex tax matters, and they provided me with clear and practical advice. Although the process took longer than expected, I was satisfied with the outcome.",
+                "date": "2022-03-02"
+            },
+            {
+                "img": "https://example.com/profile4.jpg",
+                "name": "Sarah Lee",
+                "rating": 5,
+                "desc": "I am very grateful to this tax lawyer service for their exceptional service and expertise. They helped me navigate through some difficult tax issues and provided me with a comprehensive solution that exceeded my expectations.",
+                "date": "2022-02-10"
+            }
+        ]
+    },
+    {
+        "name": "Immigration & VISA Consultant",
+        "image": "https://dummyimage.com/600x400/000/fff",
+        "rating": 4.1,
+        "price": "$150/hour",
+        "description": "Moving to a new country can be a challenging experience, but our immigration and visa consultants are here to help. We'll guide you through the complex paperwork, requirements, and deadlines, and help you achieve your dream of living and working abroad. With our support, you can navigate the immigration process with ease and confidence.",
+        "comments": [
+            {
+                "img": "https://example.com/profile1.jpg",
+                "name": "John Doe",
+                "rating": 4.5,
+                "desc": "I had a great experience with this tax lawyer service. They were knowledgeable, professional, and provided excellent advice. I highly recommend them.",
+                "date": "2022-02-15"
+            },
+            {
+                "img": "https://example.com/profile2.jpg",
+                "name": "Jane Smith",
+                "rating": 5,
+                "desc": "I was very impressed with the expertise and responsiveness of this tax lawyer service. They provided me with valuable insights and helped me resolve my tax issues in a timely manner. Thank you!",
+                "date": "2022-01-30"
+            },
+            {
+                "img": "https://example.com/profile3.jpg",
+                "name": "Mike Johnson",
+                "rating": 4,
+                "desc": "I consulted with this tax lawyer service for some complex tax matters, and they provided me with clear and practical advice. Although the process took longer than expected, I was satisfied with the outcome.",
+                "date": "2022-03-02"
+            },
+            {
+                "img": "https://example.com/profile4.jpg",
+                "name": "Sarah Lee",
+                "rating": 5,
+                "desc": "I am very grateful to this tax lawyer service for their exceptional service and expertise. They helped me navigate through some difficult tax issues and provided me with a comprehensive solution that exceeded my expectations.",
+                "date": "2022-02-10"
+            }
+        ]
+    },
+    {
+        "name": "Tax Lawyer",
+        "image": "https://dummyimage.com/600x400/000/fff",
+        "rating": 4.5,
+        "price": "$250/hour",
+        "description": "Taxes are a fact of life, but our tax lawyers can help you minimize the burden. From planning to compliance, we'll help you navigate the complex tax laws and regulations and maximize your savings. With our expertise, you can reduce your risk of audits and penalties and keep more of your hard-earned money.",
+        "comments": [
+            {
+                "img": "https://example.com/profile1.jpg",
+                "name": "John Doe",
+                "rating": 4.5,
+                "desc": "I had a great experience with this tax lawyer service. They were knowledgeable, professional, and provided excellent advice. I highly recommend them.",
+                "date": "2022-02-15"
+            },
+            {
+                "img": "https://example.com/profile2.jpg",
+                "name": "Jane Smith",
+                "rating": 5,
+                "desc": "I was very impressed with the expertise and responsiveness of this tax lawyer service. They provided me with valuable insights and helped me resolve my tax issues in a timely manner. Thank you!",
+                "date": "2022-01-30"
+            },
+            {
+                "img": "https://example.com/profile3.jpg",
+                "name": "Mike Johnson",
+                "rating": 4,
+                "desc": "I consulted with this tax lawyer service for some complex tax matters, and they provided me with clear and practical advice. Although the process took longer than expected, I was satisfied with the outcome.",
+                "date": "2022-03-02"
+            },
+            {
+                "img": "https://example.com/profile4.jpg",
+                "name": "Sarah Lee",
+                "rating": 5,
+                "desc": "I am very grateful to this tax lawyer service for their exceptional service and expertise. They helped me navigate through some difficult tax issues and provided me with a comprehensive solution that exceeded my expectations.",
+                "date": "2022-02-10"
+            }
+        ]
+    },
+    {
+        "name": "Accountant Service",
+        "image": "https://dummyimage.com/600x400/000/fff",
+        "rating": 4.2,
+        "price": "$200/hour",
+        "description": "Keeping track of your finances can be a headache, but our accounting services make it easy. From bookkeeping to payroll, tax preparation to financial analysis, we provide accurate and timely information to help you make informed decisions. With our help, you can focus on growing your business and achieving your financial goals.",
+        "comments": [
+            {
+                "img": "https://example.com/profile1.jpg",
+                "name": "John Doe",
+                "rating": 4.5,
+                "desc": "I had a great experience with this tax lawyer service. They were knowledgeable, professional, and provided excellent advice. I highly recommend them.",
+                "date": "2022-02-15"
+            },
+            {
+                "img": "https://example.com/profile2.jpg",
+                "name": "Jane Smith",
+                "rating": 5,
+                "desc": "I was very impressed with the expertise and responsiveness of this tax lawyer service. They provided me with valuable insights and helped me resolve my tax issues in a timely manner. Thank you!",
+                "date": "2022-01-30"
+            },
+            {
+                "img": "https://example.com/profile3.jpg",
+                "name": "Mike Johnson",
+                "rating": 4,
+                "desc": "I consulted with this tax lawyer service for some complex tax matters, and they provided me with clear and practical advice. Although the process took longer than expected, I was satisfied with the outcome.",
+                "date": "2022-03-02"
+            },
+            {
+                "img": "https://example.com/profile4.jpg",
+                "name": "Sarah Lee",
+                "rating": 5,
+                "desc": "I am very grateful to this tax lawyer service for their exceptional service and expertise. They helped me navigate through some difficult tax issues and provided me with a comprehensive solution that exceeded my expectations.",
+                "date": "2022-02-10"
+            }
+        ]
+    },
+    {
+        "name": "Doctor/Dentist",
+        "image": "https://dummyimage.com/600x400/000/fff",
+        "rating": 4.8,
+        "price": "$100/hour",
+        "description": "Your health is your most valuable asset, and our network of licensed doctors and dentists can help you maintain it. We offer quality medical and dental care for a variety of needs, from routine check-ups to specialized treatments. With our expert guidance and personalized attention, you can stay healthy and happy for years to come.",
+        "comments": [
+            {
+                "img": "https://example.com/profile1.jpg",
+                "name": "John Doe",
+                "rating": 4.5,
+                "desc": "I had a great experience with this tax lawyer service. They were knowledgeable, professional, and provided excellent advice. I highly recommend them.",
+                "date": "2022-02-15"
+            },
+            {
+                "img": "https://example.com/profile2.jpg",
+                "name": "Jane Smith",
+                "rating": 5,
+                "desc": "I was very impressed with the expertise and responsiveness of this tax lawyer service. They provided me with valuable insights and helped me resolve my tax issues in a timely manner. Thank you!",
+                "date": "2022-01-30"
+            },
+            {
+                "img": "https://example.com/profile3.jpg",
+                "name": "Mike Johnson",
+                "rating": 4,
+                "desc": "I consulted with this tax lawyer service for some complex tax matters, and they provided me with clear and practical advice. Although the process took longer than expected, I was satisfied with the outcome.",
+                "date": "2022-03-02"
+            },
+            {
+                "img": "https://example.com/profile4.jpg",
+                "name": "Sarah Lee",
+                "rating": 5,
+                "desc": "I am very grateful to this tax lawyer service for their exceptional service and expertise. They helped me navigate through some difficult tax issues and provided me with a comprehensive solution that exceeded my expectations.",
+                "date": "2022-02-10"
+            }
+        ]
+    },
+    {
+        "name": "Journalist",
+        "image": "https://dummyimage.com/600x400/000/fff",
+        "rating": 4.6,
+        "price": "$150/hour",
+        "description": " With so much information out there, it can be hard to know what to believe. Our network of journalists provides reliable and trustworthy reporting on a variety of topics, from news and politics to entertainment and culture. With our insights and analysis, you can stay informed and engaged with the world around you.",
+        "comments": [
+            {
+                "img": "https://example.com/profile1.jpg",
+                "name": "John Doe",
+                "rating": 4.5,
+                "desc": "I had a great experience with this tax lawyer service. They were knowledgeable, professional, and provided excellent advice. I highly recommend them.",
+                "date": "2022-02-15"
+            },
+            {
+                "img": "https://example.com/profile2.jpg",
+                "name": "Jane Smith",
+                "rating": 5,
+                "desc": "I was very impressed with the expertise and responsiveness of this tax lawyer service. They provided me with valuable insights and helped me resolve my tax issues in a timely manner. Thank you!",
+                "date": "2022-01-30"
+            },
+            {
+                "img": "https://example.com/profile3.jpg",
+                "name": "Mike Johnson",
+                "rating": 4,
+                "desc": "I consulted with this tax lawyer service for some complex tax matters, and they provided me with clear and practical advice. Although the process took longer than expected, I was satisfied with the outcome.",
+                "date": "2022-03-02"
+            },
+            {
+                "img": "https://example.com/profile4.jpg",
+                "name": "Sarah Lee",
+                "rating": 5,
+                "desc": "I am very grateful to this tax lawyer service for their exceptional service and expertise. They helped me navigate through some difficult tax issues and provided me with a comprehensive solution that exceeded my expectations.",
+                "date": "2022-02-10"
+            }
+        ]
+    },
+    {
+        "name": "YouTuber",
+        "image": "https://dummyimage.com/600x400/000/fff",
+        "rating": 3.9,
+        "price": "$50/hour",
+        "description": " In today's digital age, building a strong online presence is more important than ever. Our YouTuber services provide guidance and support to help you grow your channel and engage with your audience. From content creation to audience analysis, we'll help you develop a strategy that works for your unique style and goals. With our expertise and support, you can build a loyal following and make your mark on the world of online content creation.",
+        "comments": [
+            {
+                "img": "https://example.com/profile1.jpg",
+                "name": "John Doe",
+                "rating": 4.5,
+                "desc": "I had a great experience with this tax lawyer service. They were knowledgeable, professional, and provided excellent advice. I highly recommend them.",
+                "date": "2022-02-15"
+            },
+            {
+                "img": "https://example.com/profile2.jpg",
+                "name": "Jane Smith",
+                "rating": 5,
+                "desc": "I was very impressed with the expertise and responsiveness of this tax lawyer service. They provided me with valuable insights and helped me resolve my tax issues in a timely manner. Thank you!",
+                "date": "2022-01-30"
+            },
+            {
+                "img": "https://example.com/profile3.jpg",
+                "name": "Mike Johnson",
+                "rating": 4,
+                "desc": "I consulted with this tax lawyer service for some complex tax matters, and they provided me with clear and practical advice. Although the process took longer than expected, I was satisfied with the outcome.",
+                "date": "2022-03-02"
+            },
+            {
+                "img": "https://example.com/profile4.jpg",
+                "name": "Sarah Lee",
+                "rating": 5,
+                "desc": "I am very grateful to this tax lawyer service for their exceptional service and expertise. They helped me navigate through some difficult tax issues and provided me with a comprehensive solution that exceeded my expectations.",
+                "date": "2022-02-10"
+            }
+        ]
+    },
+    {
+        "name": "Cloud kitchen",
+        "image": "https://dummyimage.com/600x400/000/fff",
+        "rating": 4.4,
+        "price": "$20/dish",
+        "description": "The food industry is rapidly changing, and our cloud kitchen service is at the forefront of this evolution. We provide turnkey solutions for food entrepreneurs, from kitchen space to equipment and logistics. With our support, you can focus on creating delicious and innovative dishes, while we take care of the rest. Our flexible model allows you to scale your business quickly and efficiently, without the high overhead costs of a traditional brick-and-mortar restaurant. Whether you're just starting out or looking to expand, our cloud kitchen service provides the perfect platform for success.",
+        "comments": [
+            {
+                "img": "https://example.com/profile1.jpg",
+                "name": "John Doe",
+                "rating": 4.5,
+                "desc": "I had a great experience with this tax lawyer service. They were knowledgeable, professional, and provided excellent advice. I highly recommend them.",
+                "date": "2022-02-15"
+            },
+            {
+                "img": "https://example.com/profile2.jpg",
+                "name": "Jane Smith",
+                "rating": 5,
+                "desc": "I was very impressed with the expertise and responsiveness of this tax lawyer service. They provided me with valuable insights and helped me resolve my tax issues in a timely manner. Thank you!",
+                "date": "2022-01-30"
+            },
+            {
+                "img": "https://example.com/profile3.jpg",
+                "name": "Mike Johnson",
+                "rating": 4,
+                "desc": "I consulted with this tax lawyer service for some complex tax matters, and they provided me with clear and practical advice. Although the process took longer than expected, I was satisfied with the outcome.",
+                "date": "2022-03-02"
+            },
+            {
+                "img": "https://example.com/profile4.jpg",
+                "name": "Sarah Lee",
+                "rating": 5,
+                "desc": "I am very grateful to this tax lawyer service for their exceptional service and expertise. They helped me navigate through some difficult tax issues and provided me with a comprehensive solution that exceeded my expectations.",
+                "date": "2022-02-10"
+            }
+        ]
+    }
+]
